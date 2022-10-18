@@ -1,0 +1,18 @@
+{
+    "status": [
+        {
+            "id": 1,
+            "tipo": "Solicitado"
+        },
+        {
+            "id": 2,
+            "tipo": "Finalizado"
+        },
+        {
+            "id": 3,
+            "tipo": "Invalido"
+        }
+    ],
+    
+    "carros": []
+}
